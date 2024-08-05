@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <h1>airthematic operation</h1>
+        <p id = "demo"></p>
+        <script>
+            let a=10;
+            let b=20;
+
+                document.write("sum is :- "+(a+b))
+            </script>
+    </body>
+</html>
